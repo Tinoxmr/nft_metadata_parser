@@ -8,7 +8,7 @@ The script should return the complete metadata of an nft collection as a JSON fi
 1. Pull centrally stored metadata from an nft directory with `requests` and save to raw json
 2. Save to json with a correct formatting
 3. Add support for distributed storage metadata (IPFS)
-4. Implement "collection completenss" checks
+4. Implement "collection completeness" checks
 5. Implement metadata pulling at reveal time
   
  ---
